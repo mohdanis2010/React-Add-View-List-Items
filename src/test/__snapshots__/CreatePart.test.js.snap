@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <form>
+    <input
+      class=""
+      data-testid="name"
+      id="name"
+      type="text"
+      value=""
+    />
+    <input
+      class=""
+      type="text"
+      value=""
+    />
+    <button>
+      Add Item
+    </button>
+  </form>
+</DocumentFragment>
+`;
